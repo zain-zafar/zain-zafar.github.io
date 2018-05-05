@@ -1,12 +1,12 @@
 # Site settings
-title: Syed Zain Zafar
+title: Syed zain Zafar
 email: syedzain.zafar@mail.utoronto.ca
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+linkedin_username: syed-zain-zafar
+github_username: 
 
 # Build settings
 markdown: kramdown
